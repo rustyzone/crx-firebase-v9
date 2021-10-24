@@ -1,4 +1,6 @@
 {
+  "name": "Firebase v9 Example Template",
+  "description": "Firebase v9 Example Template - Rustyzone",
   "background": { "scripts": ["background/index.js"] },
   "content_scripts": [
     {
