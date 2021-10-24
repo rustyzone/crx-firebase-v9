@@ -8,6 +8,8 @@
 
 Clone Template Repo:
 
+Make and cd into an empty folder of your choice
+
 $ `git clone https://github.com/rustyzone/crx-firebase-v9.git .`
 
 Install:
@@ -26,4 +28,4 @@ Make builds
 
 `npm run release`
 
-reate a .zip build ready to submit to the Chorme Web Store
+Create a .zip build ready to submit to the Chrome Web Store
